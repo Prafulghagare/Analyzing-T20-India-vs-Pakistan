@@ -7,8 +7,6 @@ This project presents an analytical breakdown of **T20 International matches bet
 ## 📁 Files
 
 - `India_vs_Pakistan_T20.pbix` — Power BI file with all dashboards.
-- `india_pakistan_t20_data.csv` — Cleaned dataset (optional).
-- `dashboard-preview.png` — Screenshot for GitHub preview.
 
 ---
 
@@ -38,9 +36,9 @@ This project presents an analytical breakdown of **T20 International matches bet
 
 ---
 
-## 📎 Data Source
+## 🌐 Data Source
 
-- Data scraped from [ESPN Cricinfo](https://www.espncricinfo.com/), cleaned and structured for analysis.
+- Data extracted from **[ESPNcricinfo T20 stats](https://stats.espncricinfo.com/)** using Power BI's *Web* connector and transformed with Power Query.
 
 ---
 
