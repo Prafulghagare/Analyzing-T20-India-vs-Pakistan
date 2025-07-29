@@ -1,65 +1,50 @@
-# 🏏 Analyzing T20 India vs Pakistan – Power BI Dashboard
+# 🏏 T20 India vs Pakistan – Power BI Dashboard
 
-This Power BI dashboard presents a detailed analysis of **India vs Pakistan T20 International matches**, with a focus on **top-performing Indian players**. It showcases:
-
-- 🎯 **Top 5 Batsmen** – Based on total runs, strike rate, highest scores
-- 🎯 **Top 5 Bowlers** – Based on wickets, average, economy, and best bowling figures
-- 🎯 **Top 5 Fielders** – Based on catches, run-outs, and total dismissals
+This project presents an analytical breakdown of **T20 International matches between India and Pakistan**, focusing on India's top-performing players. The dashboard visualizes batting, bowling, and fielding metrics in an interactive format using Power BI.
 
 ---
 
-## 📊 Features
+## 📁 Files
 
-- Interactive and user-friendly visuals  
-- Filters to view stats by player or year  
-- Clear insights into individual performances  
-- Comparison of India and Pakistan player stats (India-focused)  
-- Clean and informative layout for better storytelling  
+- `India_vs_Pakistan_T20.pbix` — Power BI file with all dashboards.
+- `india_pakistan_t20_data.csv` — Cleaned dataset (optional).
+- `dashboard-preview.png` — Screenshot for GitHub preview.
 
 ---
 
-## 🛠 Tools & Technologies
+## 🔧 Tools Used
 
-- **Power BI**  
-- **Power Query**  
-- **DAX (Data Analysis Expressions)**  
-- Data Source: [ESPN Cricinfo](https://www.espncricinfo.com/) (web-scraped or CSV format)
-
----
-
-## 🔍 Objective
-
-To provide a visual and analytical report on individual Indian player performances in T20 matches against Pakistan. This dashboard is ideal for:
-
-- Cricket fans & analysts  
-- Students and beginners in data visualization  
-- Portfolio showcasing for Power BI and sports analytics roles  
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://www.espncricinfo.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/512/cricket.png" alt="Cricinfo" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-## 📁 Project Files
+## 📌 Objectives
 
-- `.pbix` Power BI file  
-- Sample datasets (CSV/Excel, if included)  
-- Screenshots (optional for GitHub preview)
-
----
-
-## 📸 Preview
-
-*(You can insert screenshots here using `![alt text](path/to/image)` if you have any visuals to display)*
+- Highlight top 5 batsmen, bowlers, and fielders from India.
+- Provide a comparison of performance against Pakistan in T20 matches.
+- Enable user interaction through filters and visuals.
 
 ---
 
-## 📬 Contact
+## 📊 Sample Insights
 
-For any questions or feedback, feel free to reach out:
-
-- 📧 Email: prafulghagare143@gmail.com  
-- 🔗 LinkedIn: [Praful Ghagare](https://www.linkedin.com/in/prafulghagare123/)  
-- 💻 GitHub: [Prafulghagare](https://github.com/Prafulghagare)
+- Batsmen ranked by runs, strike rate, and highest score.
+- Bowlers analyzed using wickets, economy, and averages.
+- Fielders ranked by catches, run-outs, and dismissals.
 
 ---
 
-⭐ **If you like this project, give it a star on GitHub!**
+## 📎 Data Source
 
+- Data scraped from [ESPN Cricinfo](https://www.espncricinfo.com/), cleaned and structured for analysis.
+
+---
+
+⭐ **If you find this useful, feel free to star this repo and share it!**
