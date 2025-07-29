@@ -18,9 +18,6 @@ This project presents an analytical breakdown of **T20 International matches bet
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="40" height="40"/>
   </a>
-  <a href="https://www.espncricinfo.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/512/cricket.png" alt="Cricinfo" width="40" height="40"/>
-  </a>
 </p>
 
 ---
